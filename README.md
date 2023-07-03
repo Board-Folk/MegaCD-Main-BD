@@ -188,7 +188,7 @@ stability) but this may introduce some additional noise.
 # Additional Resources
 
 If you require the SEGA font for producing a logo on the board, you may
-consider (this one)[http://actselect.chips.jp/fonts/11.htm]. Note that the
+consider [this one](http://actselect.chips.jp/fonts/11.htm). Note that the
 author specifies that this is allowed for personal, non-commercial use only
 and may not be redistributed.
 
