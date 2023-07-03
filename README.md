@@ -195,11 +195,11 @@ and may not be redistributed.
 
 # Thanks
 
-  * Simon "Aergan" Lock for your insights, advice, support and expert testing
-    of the first boards.
+  * Simon "Aergan" Lock ([@Aergan](https://github.com/Aergan)) for your
+    insights, advice, support and expert testing of the first boards.
 
-  * Chrissy (@chris-jh) for the connect board reproduction project, support
-    and testing.
+  * Chrissy ([@chris-jh](https://github.com/chris-jh)) for the connect board
+    reproduction project, support and testing.
 
   * Zaxour, @PointerFunction and the rest of the Board Folk for their support
     and general coolness.
