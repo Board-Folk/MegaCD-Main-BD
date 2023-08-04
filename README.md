@@ -117,9 +117,9 @@ outwards, towards the front of the machine.
 |C3|C3|22nF||0805|B|B|B|
 |C4|C6|22nF||0805|B|B|B|
 |C5|C5|22nF||0805|B|B|B|
-|C6|-|22nF||0805|Y|IC6|B|B|-|
-|C7|-|22nF||0805|Y|IC7|B|B|-|
-|C8|-|22nF||0805|Y|IC8|B|B|-|
+|C6|-|22nF||0805|B|B|-|
+|C7|-|22nF||0805|B|B|-|
+|C8|-|22nF||0805|B|B|-|
 |C9|C41|10uF|16V|SMD 3-4mm|T|T|T|
 |C10|-|10uF|16V|SMD 3-4mm|T|T|-|
 |C11|C42|10uF|16V|SMD 3-4mm|T|T|T|
@@ -128,12 +128,12 @@ outwards, towards the front of the machine.
 |C14|C4|22nF||0805|B|B|B|
 |C15|C32|n/u|-|-|-|-|-|
 |C16|C22|n/u|-|-|-|-|-|
-|C17|-|n/u|-|-|N|IC6 PRAS GND|-|-|-|
-|C18|-|n/u|-|-|N|IC6 PCAS GND|-|-|-|
-|C19|-|n/u|-|-|N|IC7 PRAS GND|-|-|-|
-|C20|-|n/u|-|-|N|IC7 PCAS GND|-|-|-|
-|C21|-|n/u|-|-|N|IC8 PRAS GND|-|-|-|
-|C22|-|n/u|-|-|N|IC8 PCAS GND|-|-|-|
+|C17|-|n/u|-|-|-|-|-|
+|C18|-|n/u|-|-|-|-|-|
+|C19|-|n/u|-|-|-|-|-|
+|C20|-|n/u|-|-|-|-|-|
+|C21|-|n/u|-|-|-|-|-|
+|C22|-|n/u|-|-|-|-|-|
 |C23|C43|10uF|16V|SMD 3-4mm|T|T|T|
 |C24|C7|22nF||0805|B|B|B|
 |C25|C11|22nF||0805|B|B|B|
@@ -156,7 +156,7 @@ outwards, towards the front of the machine.
 |C42|C49|10uF|16V|SMD 3-4mm|T|T|T|
 |C43|C16|22nF||0805|B|B|B|
 |C44|C18|22nF||0805|B|B|B|
-|C45|C17|22nF||0805|Y|IC18|B|B|B|
+|C45|C17|22nF||0805|B|B|B|
 |C46|C50|10uF|16V|SMD 3-4mm|T|T|T|
 |C47|C36|200pF||0805|-|B|-|
 |C48|C52|100uF|6.3V|THT 5mm pitch|T|T|T|
