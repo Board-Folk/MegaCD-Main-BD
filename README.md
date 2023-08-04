@@ -194,7 +194,7 @@ outwards, towards the front of the machine.
 
 \* `CX1` (to give it a name) was mounted on the bottom of `837-8015` boards
 from the factory, between pins 2 and 38 of `IC4`. You may like to replicate
-this the same way, or you may use the extra footprint provided for this
+this the same way, or you may use the extra 0805 footprint provided for this
 purpose. You may even want to live dangerously and leave it off.
 
 \*\* These 0-ohm resistors are used to configure the board depending on the
