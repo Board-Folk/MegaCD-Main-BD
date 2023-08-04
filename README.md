@@ -140,10 +140,10 @@ outwards, towards the front of the machine.
 |C26|C51|100uF|6.3V|THT 5mm pitch|T|T|T|
 |C27|C9|22nF||0805|B|B|B|
 |C28|C45|10uF|16V|SMD 3-4mm|T|T|T|
-|C29|C23|100pF||0805|B|B|?|
+|C29|C23|100pF||0805|B|B|-|
 |C30|C10|22nF||0805|B|B|B|
 |C31|C46|10uF|16V|SMD 3-4mm|T|T|T|
-|C32|C26|100pF||0805|B|B|?|
+|C32|C26|100pF||0805|B|B|-|
 |C33|C27|100pF||0805|-|-|B|
 |C34|C28|100pF||0805|B|B|B|
 |C35|C24|100pF||0805|-|-|B|
