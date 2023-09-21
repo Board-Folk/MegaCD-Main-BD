@@ -6,6 +6,20 @@ damage caused by leaking capacitors and/or batteries. The recreations are based
 on the available schematics and reverse engineering using scanned images of the
 original boards' copper layers, so should be reasonably accurate reproductions.
 
+**NOTE**: In order to use these PCBs sucessfully you will need to be proficient in:
+
+* Soldering-fine pitched surface mount components.
+* In most cases, desoldering said components to obtain these from a donor board.
+* Troubleshooting any issues that may arise.
+
+The authors are not obliged to provide support, nor shall they be held responsible
+for botched attempts at using these boards.
+
+Should you however find a legitimate flaw in the board's design or have suggestions
+for improvements, please feel free to submit an issue. Please note that the current
+scope of the project is to provide a working replica; we are not at this moment
+entertaining feature requests for significant modifications.
+
 
 ## Revisions
 
