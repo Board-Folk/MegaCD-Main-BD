@@ -33,7 +33,7 @@ select the correct replacement board for your purposes.
 |:-----------|:-------:|:---------------:|:------------:|:------:|:---------:|:----------:|:--------------:|
 |837-8015    |   Zip   | 315-5477 (MCE1) | JK-FF (IC19) | Japan  | 315-5476  | None       | Testing        |
 |837-8015-01 |   Zip   | 315-5548 (MCE2) | D-FF (IC19)  | Japan  | 315-5476A | XOR (IC16) | Verified       |
-|837-8952    |   SOJ   | 315-5548 (MCE2) | D-FF (IC17)  | Export | 315-5476A | XOR (IC12) | Testing        |
+|837-8952    |   SOJ   | 315-5548 (MCE2) | D-FF (IC17)  | Export | 315-5476A | XOR (IC12) | Verified       |
 |837-8952    |   SOJ   | 315-5632 (MCE3) | None (IC17)  | Export | 315-5476A | XOR (IC12) | Verified       |
 
 Of these revisions, only the schematics for `837-8015-01` are easy to find
@@ -281,6 +281,8 @@ and may not be redistributed.
 
   * Chrissy ([@chris-jh](https://github.com/chris-jh)) for the connect board
     reproduction project, support and testing.
+
+  * Old Man (@ayyyyyyyron) for building/testing the Export/MCE2 combination.
 
   * Zaxour, @PointerFunction and the rest of the Board Folk for their support
     and general coolness.
