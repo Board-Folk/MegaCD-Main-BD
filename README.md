@@ -282,7 +282,7 @@ and may not be redistributed.
   * Chrissy ([@chris-jh](https://github.com/chris-jh)) for the connect board
     reproduction project, support and testing.
 
-  * Old Man (@ayyyyyyyron) for building/testing the Export/MCE2 combination.
+  * Aaron Lavery (@ayyyyyyyron) for building/testing the Export/MCE2 combination.
 
   * Zaxour, @PointerFunction and the rest of the Board Folk for their support
     and general coolness.
