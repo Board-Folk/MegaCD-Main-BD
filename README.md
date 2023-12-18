@@ -287,8 +287,8 @@ and may not be redistributed.
 
   * Adrian Soh (@klin1309) for verifying the 837-8015/MCE1 combination.
 
-  * Zaxour, @PointerFunction and the rest of the Board Folk for their support
-    and general coolness.
+  * Zaxour, @PointerFunction, Leo Oliveira and the rest of the Board Folk for
+    their support and general coolness.
 
   * [240p Test Suite](https://github.com/ArtemioUrbina/240pTestSuite)
     by [@ArtemioUrbina](https://github.com/ArtemioUrbina)
