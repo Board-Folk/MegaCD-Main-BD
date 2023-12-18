@@ -8,7 +8,7 @@ original boards' copper layers, so should be reasonably accurate reproductions.
 
 **NOTE**: In order to use these PCBs sucessfully you will need to be proficient in:
 
-* Soldering-fine pitched surface mount components.
+* Soldering fine-pitched surface mount components.
 * In most cases, desoldering said components to obtain these from a donor board.
 * Troubleshooting any issues that may arise.
 
@@ -29,12 +29,12 @@ chip) resulting in four known revisions. Aside from the markings on the board,
 the revisions are easily identified using the table below. Obviously, be sure to
 select the correct replacement board for your purposes.
 
-|Board       | CPU RAM | MCE Chip        | MCE Logic    | Region | PCM Chip  | PCM Logic  | Project Status |
-|:-----------|:-------:|:---------------:|:------------:|:------:|:---------:|:----------:|:--------------:|
-|837-8015    |   Zip   | 315-5477 (MCE1) | JK-FF (IC19) | Japan  | 315-5476  | None       | Testing        |
-|837-8015-01 |   Zip   | 315-5548 (MCE2) | D-FF (IC19)  | Japan  | 315-5476A | XOR (IC16) | Verified       |
-|837-8952    |   SOJ   | 315-5548 (MCE2) | D-FF (IC17)  | Export | 315-5476A | XOR (IC12) | Verified       |
-|837-8952    |   SOJ   | 315-5632 (MCE3) | None (IC17)  | Export | 315-5476A | XOR (IC12) | Verified       |
+|Board       | Program RAM | MCE Chip        | MCE Logic    | Region | PCM Chip  | PCM Logic  |
+|:-----------|:-----------:|:---------------:|:------------:|:------:|:---------:|:----------:|
+|837-8015    |     Zip     | 315-5477 (MCE1) | JK-FF (IC19) | Japan  | 315-5476  | None       |
+|837-8015-01 |     Zip     | 315-5548 (MCE2) | D-FF (IC19)  | Japan  | 315-5476A | XOR (IC16) |
+|837-8952    |     SOJ     | 315-5548 (MCE2) | D-FF (IC17)  | Export | 315-5476A | XOR (IC12) |
+|837-8952    |     SOJ     | 315-5632 (MCE3) | None (IC17)  | Export | 315-5476A | XOR (IC12) |
 
 Of these revisions, only the schematics for `837-8015-01` are easy to find
 online. Luckily there are only a few minor differences between the revisions,
@@ -77,9 +77,10 @@ is likely to be significantly more expensive.
   a partial layer of copper on top of the signal layers, separated by some
   sort of dielectric coating. During testing, 2-layer boards without this
   copper layer suffered from noise issues so these have now been updated
-  with internal power and ground planes.
+  with internal power and ground planes. Despite these additions, this
+  particular board can still present challenges even to seasoned builders.
 
-* `837-8015-01`: this particular revision has improved routing and 2-layer
+* `837-8015-01`: this revision has improved routing and 2-layer
   boards have been shown to work. The design does however have 4 layers
   and we recommend using these.
 
@@ -283,6 +284,8 @@ and may not be redistributed.
     reproduction project, support and testing.
 
   * Aaron Lavery (@ayyyyyyyron) for building/testing the Export/MCE2 combination.
+
+  * Adrian Soh (@klin1309) for verifying the 837-8015/MCE1 combination.
 
   * Zaxour, @PointerFunction and the rest of the Board Folk for their support
     and general coolness.
